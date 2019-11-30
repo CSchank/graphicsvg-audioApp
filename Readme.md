@@ -12,7 +12,7 @@ type SoundCmd
     | NoSound
 ```
 
-See Main.elm for an example use (live demo [here](https://cschank.github.io/audioApp.html])).
+See Main.elm for an example use (live demo [here](https://cschank.github.io/audioApp.html)).
 
 You must include the included `index.html` file in the root of your project, and compile the Elm code from your
 project directory with:
