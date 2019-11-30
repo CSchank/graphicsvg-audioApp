@@ -1,0 +1,9 @@
+The following two sounds were used under the Creative Commons Attribution License
+(https://creativecommons.org/licenses/by/3.0/):
+
+1) Audio/failure.wav, by rhodesmas on freesound.org: https://freesound.org/people/rhodesmas/sounds/342756/
+
+2) Audio/success.wav, by JustInvoke on freesound.org: https://freesound.org/people/JustInvoke/sounds/446111/
+
+Neither sounds were modified; the file name for each was simplified.
+
