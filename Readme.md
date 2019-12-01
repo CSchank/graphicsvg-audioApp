@@ -4,7 +4,7 @@ This is a simple demo showing how to add sound to GraphicSVG programs. Once star
 done and cannot be stopped. More than one sound can be played at once.
 
 You must import and use `audioApp` as your top-level application. Each update must return a tuple of
-`(`Model, SoundCmd), where `SoundCmd` tells the app whether or not to play a sound:
+`(Model, SoundCmd)`, where `SoundCmd` tells the app whether or not to play a sound:
 
 ```
 type SoundCmd
